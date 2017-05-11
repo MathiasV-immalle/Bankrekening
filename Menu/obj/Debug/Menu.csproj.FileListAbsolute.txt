@@ -1,0 +1,6 @@
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\Menu.exe.config
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\Menu.exe
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\Menu.pdb
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\Menu.exe
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Menu\Menu\obj\Debug\Menu.pdb
